@@ -1,7 +1,7 @@
 #include <iostream>
-#include "loading.h"
+#include "animate.h"
 #include <string>
-#include "adminFunction.h"
+#include "action.h"
 
 using namespace std;
 
