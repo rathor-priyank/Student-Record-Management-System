@@ -6,7 +6,6 @@ A simple **Student Record Management System** implemented in C++ that allows use
 
 - **Add Student Record**: Input details like name, roll number, and marks for multiple subjects.
 - **Display All Records**: View all student records stored in the system.
-- **Update Student Record**: Modify an existing student's details.
 - **Delete Student Record**: Remove a student record from the system.
 
 
